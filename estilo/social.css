@@ -11,21 +11,33 @@
     width: 0px;
 }
 
-img {
-    width: 100wh;
-}
-
 a {
     display: block;
-    background-color: rgba(255, 0, 0, 0.719);
     padding: 20px;
+    background-color:rgba(255, 0, 0, 0.63);
     color: white;
-    padding: 20px;
     text-align: center;
     font-weight: bolder;
-    text-decoration: none; 
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 a:hover {
-    background-color: red;
+    background-color:red;
+}
+
+div {
+    height: 390px;
+}
+
+div img {
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 35px;
+}
+
+div h1 {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 30px;
 }
