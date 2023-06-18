@@ -1,11 +1,10 @@
-
-
-| :placard: Vitrine.Dev |     |
+| 🚀 Vitrine.Dev | | 
 | -------------  | --- |
-| :sparkles: Nome        | **Redes Sociais**
+| 📌 Projeto | **Redes Sociais**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | https://github.com/Pamella30/Projeto-Redes-Sociais
-| :fire: Curso     | https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT
+| :globe_with_meridians: URL | https://projeto-redes-sociais-rose.vercel.app/
+| :file_folder: Arquivos |  https://github.com/Pamella30/Projeto-Redes-Sociais
+| :computer: Curso | https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/Pamella30/Projeto-Redes-Sociais/main/redes-sociais.png#vitrinedev)
